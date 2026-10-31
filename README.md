@@ -28,7 +28,7 @@ The project is built using:
 
 ## 📅 Planned Releases
 
-- 🚀 **v0.1** — Expected: Mid-October / Early November
+- 🚀 **v0.1** — Expected: Until the end of the year
 
 ---
 
