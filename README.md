@@ -1,12 +1,12 @@
 # 🎨 ArtinaSuite
 
-> **Work in Progress (WIP)** — The official application and portfolio for ArtinaStudio. This project is currently under active development.
+> **Work in Progress (WIP)** — The official application and portfolio for ArtinaSuite. This project is currently under active development.
 
 ---
 
 ## 🚀 About
 
-**ArtinaStudio** is the spiritual successor to DaytonaEngine, written in the same language but completely rebuilt from the ground up. It combines a fresh architecture with modern design principles to deliver a powerful, high-performance experience.
+**ArtinaSuite** is the spiritual successor to DaytonaEngine, written in the same language but completely rebuilt from the ground up. It combines a fresh architecture with modern design principles to deliver a powerful, high-performance experience.
 
 ---
 
@@ -22,7 +22,7 @@
 
 The project is built using:
 
-* **Language & Framework:** C++/Qt (Once upon a time, C#/WPF was the reason it didn't work as it should.)
+* **Language & Framework:** C++
 
 ---
 
